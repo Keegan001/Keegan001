@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on making interesting apps.<br>👯 I’m looking to collaborate on making machine learning models.<br>🤝 I’m looking for help with information on backend technologies.<br>🌱 I’m currently learning Flutter and Machine Learning.<br>💬 Ask me about Python.<br>⚡ A fun fact about me is that I love sports of any kind! Jiu-Jitsu, Football, Cricket- you name it! 
+🔭 I’m currently interested in making interesting apps.<br>👯 I’m looking to collaborate on making machine learning models.<br>🤝 I’m looking for help with information on backend technologies.<br>🌱 I’m currently learning Flutter and Machine Learning.<br>💬 Ask me about Python.<br>⚡ A fun fact about me is that I love sports of any kind! Jiu-Jitsu, Football, Cricket- you name it! 
 
 
 # 💻 Tech Stack:
