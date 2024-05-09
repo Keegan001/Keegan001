@@ -1,10 +1,3 @@
-## Hi there 👋 I am Divyam Jain
-
-
-# 💫 About Me:
-🔭 I’m currently interested in making interesting apps.<br>👯 I’m looking forward to learning more about Machine learning.<br>🤝 I’m looking for help with information on backend technologies.<br>🌱 I’m currently learning Flutter and Machine Learning.<br>💬 Ask me about Python.<br>⚡ A fun fact about me is that I love sports of any kind! Jiu-Jitsu, Football, Cricket- you name it! 
-
-
 <h2 align="left">Hi 👋! My name is Divyam Jain and I'm a computer engineering student from DJ Sanghvi College of Engineering.</h2>
 
 ###
@@ -101,13 +94,3 @@
 <img src="https://raw.githubusercontent.com/Keegan001/Keegan001/output/snake.svg" alt="Snake animation" />
 
 ###
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Keegan001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Keegan001&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
