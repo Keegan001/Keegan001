@@ -1,10 +1,4 @@
-<h2 align="left">Hi 👋! My name is Divyam Jain and I'm a computer engineering student from DJ Sanghvi College of Engineering.</h2>
-
-###
-
-<div align="center">
-  <img height="-32" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
-</div>
+<h2 align="left">Hi, I'm Divyam.</h2>
 
 ###
 
